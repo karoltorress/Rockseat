@@ -10,7 +10,7 @@ section header{
       gap: 8px;
 
       span {
-        background-image: url(../assets/Icons/ArrowRight-hover.svg);
+        background-image: url(../assets/Icons/ArrowRight.png);
         width: 16px;
         height: 16px;
       }
@@ -26,7 +26,6 @@ section header{
   img {
     height: 100%;
     object-fit: cover;
-    border-radius: 4px;
   }
   
   .card {
