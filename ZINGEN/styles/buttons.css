@@ -51,7 +51,7 @@ position: relative;
     position: absolute;
     border-radius: inherit;
     inset: 0.09375rem;
-    background: var(--bg-color);
+    background-color: var(--bg-color);
   }
 
   &::after {
