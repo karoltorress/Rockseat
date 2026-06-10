@@ -34,7 +34,7 @@
     & .separator {
       height: 1px;
       margin-block: 2rem;
-      backgroud: radial-gradient(var(--text-color-secondary), var(--surface-color) 70%);
+      backgroud: radial-gradient(var(text-color-secondary), var(--surface-color) 70%);
     }
 
     & li {
